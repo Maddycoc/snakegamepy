@@ -12,3 +12,4 @@ Needed Imports:
 Got to knew about python colours from https://matplotlib.org/stable/gallery/color/named_colors.html
 
 Copyright 2021, All Rights Reserved
+![preview](https://user-images.githubusercontent.com/73170350/147388850-7402b68a-d8f3-4437-ab73-967c25ff4fc6.png)
