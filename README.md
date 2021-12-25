@@ -1,4 +1,4 @@
-# snakegamepy
+# Snake Game Via Python Turtle
 
 
 The classic snake game is back from the 1900's by our all time favourite "Python Turtle".
